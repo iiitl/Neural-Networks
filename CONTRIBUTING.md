@@ -45,8 +45,8 @@ This repo contains the Neural networks problem.
 2. Clone your fork and enter the repo folder:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Arena-5.git
-cd ML-Arena-5
+git clone https://github.com/<your-username>/Neural-Networks.git
+cd Neural-Networks
 ```
 
 3. Create a branch:

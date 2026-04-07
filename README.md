@@ -28,7 +28,7 @@ This is a tabular dataset, allowing you to focus on core neural network concepts
 ## Repository Layout
 
 ```
-ML-Arena-5/
+Neural-Networks/
 |- README.md
 |- CONTRIBUTING.md
 |- dataset.csv
@@ -47,7 +47,7 @@ ML-Arena-5/
 
 ## Quick Start
 
-1. Fork this folder as its own repo (ML-Arena-5).
+1. Fork this folder as its own repo (Neural-Networks).
 2. Clone your fork and create a branch.
 3. Pick one issue.
 4. Work in only one notebook per issue based on track:
