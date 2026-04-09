@@ -1,4 +1,4 @@
-# Contributing to ML Arena 5
+# Contributing to Neural-Networks
 
 This repo contains the Neural networks problem.
 
